@@ -1,5 +1,10 @@
 # สวัสดีครับ ผมชื่อ [สิรภัทร สวัสดิภาพพันธ์] 👋
 
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-2563EB?style=for-the-badge&logo=code&logoColor=white)
+![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-EC4899?style=for-the-badge&logo=html5&logoColor=white)
+![Backend Developer](https://img.shields.io/badge/Backend_Developer-10B981?style=for-the-badge&logo=server&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge)
+
 ### 🛠️ เทคโนโลยีและเครื่องมือ (Tech Stack)
 
 **Languages:**
