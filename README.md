@@ -1,9 +1,8 @@
 # สวัสดีครับ ผมชื่อ [สิรภัทร สวัสดิภาพพันธ์] 👋
 
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-2563EB?style=for-the-badge&logo=code&logoColor=white)
-![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-EC4899?style=for-the-badge&logo=html5&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/Backend_Developer-10B981?style=for-the-badge&logo=server&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Bangkok,_Thailand-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-8B5CF6?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Fueled_by-Iced_Americano-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
 ### 🛠️ เทคโนโลยีและเครื่องมือ (Tech Stack)
 
